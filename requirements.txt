@@ -1,0 +1,5 @@
+tensorflow>=2.16
+numpy
+matplotlib
+# Apenas para gerar o notebook (gerar_notebook.py):
+nbformat
